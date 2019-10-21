@@ -1,0 +1,19 @@
+{
+  "name": "sasspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "SCSS",
+    "Sass"
+  ],
+  "author": "Joel Grissom",
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}

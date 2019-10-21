@@ -1,0 +1,4 @@
+{
+  "outdir": "../css/", // relative path of this '.scssrc' file
+  "compileOnSave": true,
+}
